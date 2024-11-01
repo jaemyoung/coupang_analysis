@@ -1,0 +1,3 @@
+[server]
+enableCORS = false
+port = 8502  # 사용 중인 포트 번호
