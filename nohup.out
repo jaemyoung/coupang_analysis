@@ -1,0 +1,25 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8502
+  Network URL: http://172.17.0.29:8502
+  External URL: http://213.173.105.106:8502
+
+2024-11-04 02:31:24.067 304 GET / (::1) 4.65ms
+2024-11-04 02:31:24.666 304 GET /_stcore/health (::1) 1.17ms
+2024-11-04 02:31:25.657 304 GET /_stcore/host-config (::1) 0.56ms
+2024-11-04 02:31:27.002 101 GET /_stcore/stream (::1) 0.53ms
+2024-11-04 02:31:35.922 204 PUT /_stcore/upload_file/42824fbb-d13b-4500-8380-2412b0159b66/f361b11b-41e1-4386-a0d0-4bc4c2a2ec76 (::1) 1.49ms
+2024-11-04 02:31:36.985 200 GET /static/js/491.c1a2c0b2.chunk.js (::1) 9.64ms
+2024-11-04 02:31:37.326 200 GET /static/js/783.788bb3ab.chunk.js (::1) 8.14ms
+2024-11-04 02:31:37.659 200 GET /static/js/4942.e4db7877.chunk.js (::1) 9.15ms
+2024-11-04 02:31:38.052 200 GET /static/js/4297.3afbdd03.chunk.js (::1) 37.82ms
+2024-11-04 02:31:38.055 304 GET /static/css/9943.93909c7e.chunk.css (::1) 1.86ms
+2024-11-04 02:31:38.059 200 GET /static/js/9943.6af344bb.chunk.js (::1) 5.82ms
+2024-11-04 02:31:38.061 304 GET /static/js/238.8d3a7d25.chunk.js (::1) 6.78ms
+2024-11-04 02:31:38.062 304 GET /static/js/8648.92079acf.chunk.js (::1) 7.80ms
+2024-11-04 02:31:38.063 304 GET /static/js/6360.6d7cfa35.chunk.js (::1) 0.95ms
+2024-11-04 02:31:38.378 304 GET /static/js/9060.1ec8dc2b.chunk.js (::1) 1.93ms
