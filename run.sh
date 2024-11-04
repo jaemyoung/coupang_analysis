@@ -1,1 +1,1 @@
-streamlit run app.py --server.port=8501 --server.address=0.0.0.0
+nohup streamlit run app.py  > nohup.out 2>&1 &
